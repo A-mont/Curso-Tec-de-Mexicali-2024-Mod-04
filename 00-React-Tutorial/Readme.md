@@ -70,3 +70,17 @@ Inicia tu aplicación ejecutando el siguiente comando en la terminal:
 ```bash
 npm start
 ```
+
+## 5: RECOMENDACION: Instalar yarn 
+
+Asegúrate de tener Yarn instalado en tu sistema. Puedes instalarlo utilizando npm con el siguiente comando:
+
+```bash
+npm install -g yarn
+```
+
+Inicia tu aplicación ejecutando el siguiente comando en la terminal:
+
+```bash
+yarn start
+```
