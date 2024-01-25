@@ -34,7 +34,7 @@ yarn
 
 ###   Configurar Conexión con la Blockchain de VARA:
 
-Actualiza la configuración de la conexión a la blockchain según tus necesidades. Esto podría implicar modificar archivos de configuración o proporcionar detalles de la red blockchain que deseas utilizar.
+Actualiza la configuración de la conexión a la blockchain según tus necesidades. Esto podría implicar modificar archivos de configuración o proporcionar detalles de la red Vara.
 
 ###  Desarrollar tu DApp:
 
