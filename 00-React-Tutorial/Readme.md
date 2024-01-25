@@ -11,6 +11,13 @@ npx create-react-app mi-primer-dapp
 cd mi-primer-dapp
 
 ```
+o para typescript
+```bash
+npx create-react-app my-primer-dapp --template typescript
+cd mi-primer-dapp
+
+```
+
 
 Explora la estructura de archivos generada por Create React App. Los archivos principales incluyen:
 
